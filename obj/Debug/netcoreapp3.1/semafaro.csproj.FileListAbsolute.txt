@@ -1,0 +1,13 @@
+C:\Users\winicius\Documents\beckend\console\semafaro\bin\Debug\netcoreapp3.1\semafaro.exe
+C:\Users\winicius\Documents\beckend\console\semafaro\bin\Debug\netcoreapp3.1\semafaro.deps.json
+C:\Users\winicius\Documents\beckend\console\semafaro\bin\Debug\netcoreapp3.1\semafaro.runtimeconfig.json
+C:\Users\winicius\Documents\beckend\console\semafaro\bin\Debug\netcoreapp3.1\semafaro.runtimeconfig.dev.json
+C:\Users\winicius\Documents\beckend\console\semafaro\bin\Debug\netcoreapp3.1\semafaro.dll
+C:\Users\winicius\Documents\beckend\console\semafaro\bin\Debug\netcoreapp3.1\semafaro.pdb
+C:\Users\winicius\Documents\beckend\console\semafaro\obj\Debug\netcoreapp3.1\semafaro.csprojAssemblyReference.cache
+C:\Users\winicius\Documents\beckend\console\semafaro\obj\Debug\netcoreapp3.1\semafaro.AssemblyInfoInputs.cache
+C:\Users\winicius\Documents\beckend\console\semafaro\obj\Debug\netcoreapp3.1\semafaro.AssemblyInfo.cs
+C:\Users\winicius\Documents\beckend\console\semafaro\obj\Debug\netcoreapp3.1\semafaro.csproj.CoreCompileInputs.cache
+C:\Users\winicius\Documents\beckend\console\semafaro\obj\Debug\netcoreapp3.1\semafaro.dll
+C:\Users\winicius\Documents\beckend\console\semafaro\obj\Debug\netcoreapp3.1\semafaro.pdb
+C:\Users\winicius\Documents\beckend\console\semafaro\obj\Debug\netcoreapp3.1\semafaro.genruntimeconfig.cache
